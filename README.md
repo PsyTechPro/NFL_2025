@@ -99,6 +99,6 @@ https://www.linkedin.com/in/eric-b-weiser-ph-d-9b883b23/
 
 ## Attribution
 
-If you use this dataset, code, or modeling approach in academic work, coursework, presentations, or derivative projects, please provide appropriate attribution by citing this repository or referencing the author.
+If you use this dataset, code, or modeling approach in academic work, coursework, presentations, or derivative projects, please provide appropriate attribution by citing this repository or referencing the author (Eric B. Weiser).
 
 
