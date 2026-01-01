@@ -1,6 +1,6 @@
 # NFL_2025 — Baseline Machine Learning Model for NFL Score Prediction
 
-This repository contains an baseline machine learning (ML) dataset and modeling example for predicting NFL game scores using team-level offensive and defensive stats.
+This repository contains a baseline machine learning (ML) dataset and modeling example for predicting NFL game scores using team-level offensive and defensive stats.
 
 The project was created to support learning, comparison, and experimentation with supervised ML methods applied to real-world sports data. It is intentionally framed as a **baseline**, not a production system or optimized betting model.
 
@@ -59,7 +59,7 @@ Opponent statistics mirror the opposing team's variables and are prefixed with `
 
 ## Modeling Approach
 
-The accompanying notebook demonstrates a **gradient-based regression approach** applied to tabular sports data. The focus is on:
+The accompanying notebook demonstrates a gradient-based regression approach applied to tabular sports data. The focus is on:
 
 - Feature utilization rather than heavy optimization
 - Interpretability and reproducibility
@@ -76,7 +76,7 @@ Users are encouraged to:
 
 **This repository is intended for educational purposes only!** It would be appropriate for graduate or undergraduate level coursework, as well as independent learning and experimentation. It would be ideal for sports analytic projects. 
 
-It is **absolutely NOT** intended as:
+It is **ABSOLUTELY NOT** intended as:
 - A betting or gambling tool
 - A production-grade prediction system
 - A claim of state-of-the-art performance
