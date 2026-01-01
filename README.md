@@ -1,4 +1,4 @@
-# NFL_2025 — Baseline Machine Learning Model for NFL Score Prediction
+# Machine Learning Model for NFL Score Prediction (2025)
 
 This repository contains a baseline machine learning (ML) dataset and modeling example for predicting NFL game scores using team-level offensive and defensive stats.
 
