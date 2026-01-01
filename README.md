@@ -94,7 +94,7 @@ This dataset and code are provided **for educational and research comparison pur
 **Eric B. Weiser, Ph.D.**  
  
 
-LinkedIn:  
+If you wish to contact me, you may do so through my LinkedIn:  
 https://www.linkedin.com/in/eric-b-weiser-ph-d-9b883b23/
 
 ## Attribution
