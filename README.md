@@ -14,7 +14,7 @@ This repository includes:
   A structured dataset of NFL regular-season games through December 22, 2025 (i.e., each NFL team's first 15 games during the 2025 season, up thru Week 16).  
 
 - **`NFL_2025_Week17_Predictions_Offense_and_Defense(GH).ipynb`**  
-  A Jupyter notebook demonstrating how the dataset can be used to train and evaluate a gradient-based regression model for score predictions during Week 17 of the NFL season (Dec. 25-29, 2025).
+  A Markdown version of a Jupyter notebook illustrating how the dataset can be used to train and evaluate a gradient-based regression model for predicting NFL scores during Week 17 of the 2025 NFL season (Dec. 25–29, 2025).
 
 - **`README.md`**  
   Documentation describing the dataset, modeling approach, and intended use.
