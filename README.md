@@ -2,7 +2,7 @@
 
 This repository contains a baseline machine learning (ML) dataset and modeling example for predicting NFL game scores using team-level offensive and defensive stats.
 
-The project was created to support learning, comparison, and experimentation with supervised ML methods applied to real-world sports data. It is intentionally framed as a **baseline**, not a production system or optimized betting model.
+The project was created to support learning, comparison, and experimentation with supervised ML methods applied to real-world sports data. It is intentionally framed as a **baseline** model for predictive comparison, not an optimized betting model or decision-making tool.
 
 ---
 
@@ -13,7 +13,7 @@ This repository includes:
 - **`NFL_ML_thru_12.22.25.xlsx`**  
   A structured dataset of NFL regular-season games through December 22, 2025 (i.e., each NFL team's first 15 games during the 2025 season, up thru Week 16).  
 
-- **`NFL_2025_Week17_Predictions_Offense_and_Defense(GH).ipynb`**  
+- **`NFL_2025_Week17_Predictions_Offense_and_Defense(GH).md`**  
   A Markdown version of a Jupyter notebook illustrating how the dataset can be used to train and evaluate a gradient-based regression model for predicting NFL scores during Week 17 of the 2025 NFL season (Dec. 25–29, 2025).
 
 - **`README.md`**  
