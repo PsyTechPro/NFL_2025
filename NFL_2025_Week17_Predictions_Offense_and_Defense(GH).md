@@ -693,7 +693,7 @@ print("\nSaved predictions to:", out_path)
 # With Interaction Terms 
 # =========================
 # NFL SCORE PREDICTOR (FULL / REVISED / CLEAN)
-# - Uses Excel dataset (team offense stats + opponent offense stats per game: opp_*)
+# - Uses the Excel dataset (team offense stats + opponent offense stats per game: opp_*)
 # - Builds offense efficiency + TRUE defense (derived from opponent offense vs you)
 # - Builds rolling last-5 features for BOTH offense and defense (shifted -> no leakage)
 # - Includes home-vs-away effects (is_home + interactions)
